@@ -25,7 +25,7 @@ daha sonra frontend kısmını ayağa kaldırın
   #and
   npm run dev
 ```
-daha sonra server klasörünün içine .env adında bir dosya kurun ve içine openai keyinizi yazın
+daha sonra server klasörünün içine .env adında bir dosya kurun ve içine openai anahtarınızı yazın
 ```bash
   OPENAI_API_KEY = your_key
 ```
